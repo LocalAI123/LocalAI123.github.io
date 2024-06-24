@@ -4,13 +4,95 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2024/06/23/hello-world/"/>
-    <url>/2024/06/23/hello-world/</url>
+    <title>Standalone Facefusion 2.6.1 for Windows</title>
+    <link href="/2024/06/23/3-AI%20%E6%8D%A2%E8%84%B8%20Facefusion%20windows/"/>
+    <url>/2024/06/23/3-AI%20%E6%8D%A2%E8%84%B8%20Facefusion%20windows/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Standalone Facefusion 2.6.1: An AI Face Swapping Application for Windows</p><p><img src="https://cdn.xueshu.fun/202406232128515.png"></p><p>Facefusion is an open-source AI tool for video&#x2F;image face swapping. It features a brand-new user interface and offers a web-based operation similar to Stable Diffusion, significantly enhancing the user experience. The fusion capability of this tool can accurately integrate the facial features of the target into a template image, creating a new image with the target’s facial traits while maintaining the original posture, expression, and actions. Facefusion supports various fusion modes, including single-face fusion, multi-face fusion, and specific facial feature fusion.</p><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>Facefusion 2.6.1 has been packaged into a one-click launcher, allowing immediate use and avoiding various issues that can occur during environment setup.</p><p><code>Please ensure your computer meets the following specifications</code>:</p><ul><li>Windows 10&#x2F;11 64-bit operating system</li><li>NVIDIA graphics card or CPU operation</li></ul><p>standalone application download URL: <a href="https://www.patreon.com/user/shop/standalone-facefusion-2-6-1-ai-face-for-243457?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/standalone-facefusion-2-6-1-ai-face-for-243457?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a></p><h2 id="Download-and-Usage-Tutorial"><a href="#Download-and-Usage-Tutorial" class="headerlink" title="Download and Usage Tutorial"></a>Download and Usage Tutorial</h2><ul><li>After downloading the zip file, unzip it and double-click the <code>run.exe</code> file to run it. CUDA and Python environments are already built-in.</li></ul><p><img src="https://cdn.xueshu.fun/202406221750197.png"></p><ul><li>Use a browser to access <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, and you can use it directly in the browser.</li></ul><p><img src="https://cdn.xueshu.fun/202406221755637.png"></p><p>Dear friends, if you find this article helpful, please give it a thumbs up 👍</p>]]></content>
     
     
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+      <category>AI Video Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Face Swap</tag>
+      
+      <tag>Image Face Swap</tag>
+      
+      <tag>Video Face Swap</tag>
+      
+      <tag>Windows</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Mac Exclusive Large Model Standalone Application Chat-with-MLX, Supporting RAG！</title>
+    <link href="/2024/06/23/2-chatwithmlx/"/>
+    <url>/2024/06/23/2-chatwithmlx/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Mac-Exclusive-Large-Model-Standalone-Application-Chat-with-MLX-Supporting-RAG！"><a href="#Mac-Exclusive-Large-Model-Standalone-Application-Chat-with-MLX-Supporting-RAG！" class="headerlink" title="Mac Exclusive Large Model Standalone Application Chat-with-MLX, Supporting RAG！"></a>Mac Exclusive Large Model Standalone Application Chat-with-MLX, Supporting RAG！</h1><p><img src="https://cdn.xueshu.fun/202406221201790.jpeg"></p><p>Hello everyone, today I want to introduce a revolutionary product designed specifically for Apple Silicon Macs—[<strong>Chat with MLX</strong>]:<a href="https://github.com/qnguyen3/chat-with-mlx">https://github.com/qnguyen3/chat-with-mlx</a>! </p><p>This is not just a chat tool but a full-featured large language model chat interface. It leverages Apple’s MLX framework to provide an unprecedented level of privacy protection and chat experience. Chat with MLX is based on Retrieval-Augmented Generation (RAG) technology, capable of interacting with various open-source models, supporting multiple file formats, and adding YouTube videos via URL. This application supports multilingual interaction, easily integrates any HuggingFace and MLX-compatible open-source models, and is particularly suitable for use on macOS and Apple Silicon.</p><h2 id="Highlights-of-Chat-with-MLX"><a href="#Highlights-of-Chat-with-MLX" class="headerlink" title="Highlights of Chat-with-MLX"></a>Highlights of Chat-with-MLX</h2><p><strong>Chat-with-MLX</strong> is a chat interface based on “Retrieval-Augmented Generation (RAG)” that can utilize multiple open-source models to enhance the chat experience. With this tool, users can interact with their data, supporting various file formats (such as doc(x), pdf, txt) and adding YouTube videos via URL. It supports multilingual interaction, including English, Spanish, Chinese, Vietnamese, and Turkish. Additionally, Chat-with-MLX can easily integrate any HuggingFace and MLX-compatible open-source models, providing a native RAG example for macOS and Apple Silicon.</p><h3 id="Use-Cases"><a href="#Use-Cases" class="headerlink" title="Use Cases"></a>Use Cases</h3><ol><li><strong>Multilingual Data Query</strong>: When you need to query specific data in different languages, whether it’s text, PDF files, or online videos.</li><li><strong>Enhance Chat Experience with Powerful Models</strong>: Utilize advanced open-source models (such as Google Gemma, Mistral, StableLM, etc.) to improve the responsiveness and accuracy of chat applications.</li><li><strong>Research and Development</strong>: Ideal for users with research and development needs in AI and machine learning, especially in an Apple Silicon (e.g., M1 chip) environment, leveraging the MLX framework for efficient development and testing.</li><li><strong>Document Management and Retrieval</strong>: When you need to retrieve information from a large amount of text or multimedia content, providing a more intuitive and faster access method.</li></ol><h3 id="Key-Features"><a href="#Key-Features" class="headerlink" title="Key Features"></a>Key Features</h3><ul><li><strong>Supports chatting with data</strong>, including various file formats and YouTube videos.</li><li><strong>Multilingual support</strong>.</li><li><strong>Easily integrates various HuggingFace and MLX-compatible open-source models</strong>.</li><li><strong>Native RAG support on macOS and Apple Silicon</strong>.</li></ul><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, Chat-with-MLX is packaged into a standalone launcher. Users can run it with a simple click, without the need to configure a complex Python environment.</p><p>Chat with MLX  standalone application download URL: <a href="https://www.patreon.com/user/shop/chat-with-mlx-standalone-application-for-243328?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/chat-with-mlx-standalone-application-for-243328?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a></p><p><strong>Note: The Chat-with-MLX App only supports devices equipped with the Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>Download the DMG image file from the above link, and drag the <code>app</code> file into the <code>Applications</code> folder.</li><li>After the installation is complete, <strong>do not open it from the Launchpad for the first time; instead, right-click to open it in the Applications folder</strong>, as shown below. For more details, refer to <a href="https://aifun.fans/58">Common Issues with Installing Software on Mac</a>.</li><li>The software will automatically open the operation interface in the default browser, with the address <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>. You can start using it in the browser at this point.</li></ol><p><img src="https://cdn.xueshu.fun/202406221149917.png" alt="Interface Preview"></p><ul><li>After selecting a model, click to load the model to start chatting. Click on RAG settings to load local data.</li></ul><p><img src="https://cdn.xueshu.fun/202406221150989.png" alt="Model Selection"></p><ul><li>In addition to the integrated Tongyi Qianwen model, you can also add other MLX models in the model management section.</li></ul><p><img src="https://cdn.xueshu.fun/202406221150594.png" alt="Model Management"></p><h3 id="Model-and-Memory-Configuration"><a href="#Model-and-Memory-Configuration" class="headerlink" title="Model and Memory Configuration"></a>Model and Memory Configuration</h3><p>The table below shows the availability of different model sizes under various memory configurations. The left value in each cell indicates the availability of 4-bit quantization, while the right value indicates the availability of 8-bit quantization for the corresponding model size and memory combination.</p><p>For example, if your model size is between 14B and 34B parameters and you have 48GB of memory, you can use 4-bit quantization (✅), but 8-bit quantization is not available (❌).</p><table><thead><tr><th align="center">Model Size&#x2F;Memory</th><th align="center">0.5B ~ 4B</th><th align="center">6B ~ 13B</th><th align="center">14B ~ 34B</th><th align="center">40B ~ 56B</th><th align="center">65B ~ 72B</th><th align="center">100B ~ 180B</th></tr></thead><tbody><tr><td align="center">8GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td></tr><tr><td align="center">18GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td></tr><tr><td align="center">36GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td><td align="center">✅&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td></tr><tr><td align="center">48GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td><td align="center">❌&#x2F;❌</td><td align="center">❌&#x2F;❌</td></tr><tr><td align="center">64GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td><td align="center">❌&#x2F;❌</td></tr><tr><td align="center">96GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td><td align="center">✅&#x2F;❌</td></tr><tr><td align="center">192GB</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;✅</td><td align="center">✅&#x2F;❌</td></tr></tbody></table><p>Dear friends, if you find this article helpful, please give it a thumbs up 👍 ! Let’s enjoy the new AI chat experience on Mac together!</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Text Generators</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>MLX</tag>
+      
+      <tag>Chat-with-MLX</tag>
+      
+      <tag>LLMs</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Portable Facefusion 2.6.1 for Mac with Apple silicon</title>
+    <link href="/2024/06/23/1-AI%20%E6%8D%A2%E8%84%B8%20Facefusion%20%E7%8B%AC%E5%AE%B6%20Mac%20%E7%89%88App/"/>
+    <url>/2024/06/23/1-AI%20%E6%8D%A2%E8%84%B8%20Facefusion%20%E7%8B%AC%E5%AE%B6%20Mac%20%E7%89%88App/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Facefusion-AI-Face-Swap-App-for-Mac"><a href="#Facefusion-AI-Face-Swap-App-for-Mac" class="headerlink" title="Facefusion: AI Face Swap App for Mac"></a>Facefusion: AI Face Swap App for Mac</h1><p><img src="https://cdn.xueshu.fun/202406212024476.png"></p><p>Facefusion is an open-source AI video&#x2F;picture face swapping tool. It comes with a brand new user interface and offers a web page operation similar to Stable Diffusion, greatly enhancing the user experience. The face fusion feature of this tool can precisely infuse the characteristics of the target face into the template image, generating a new image that contains the target facial features while maintaining the original posture, expression, and movement. Facefusion supports various fusion modes, including single face fusion, multi-face fusion, and specific face selection fusion.</p><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, Facefusion is packaged into a standalone launcher. Users can run it with a simple click, without the need to configure a complex Python environment.</p><p><strong>Note: The Facefusion App only supports devices equipped with the Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><p>Download URL：<a href="https://www.patreon.com/user/shop/portable-facefusion-2-6-1-for-mac-with-185633?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/portable-facefusion-2-6-1-for-mac-with-185633?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>Download the DMG image file from the link above.</li><li>Double-click to open the image file, and you will see the following interface:</li></ol><p><img src="https://cdn.xueshu.fun/202406212025875.png"></p><p>   Drag the <code>app</code> file into the <code>Applications</code> folder.</p><ol start="3"><li><p>In the <code>Applications</code> folder, find the app, right-click and choose “Open” to avoid security restrictions on the first launch.  </p></li><li><p>The first launch may take some time, please be patient. </p></li><li><p>The software will automatically open the operation interface in the default browser, the address is <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, and now you can start using Facefusion in the browser.</p></li></ol><p><img src="https://cdn.xueshu.fun/202406212025926.png"></p><h3 id="Usage-Suggestions"><a href="#Usage-Suggestions" class="headerlink" title="Usage Suggestions"></a>Usage Suggestions</h3><ul><li><p>The AI face swap model of Facefusion is pre-installed locally, so it can be used normally without an internet connection.</p></li><li><p>To improve running speed, it is recommended to select the <code>coreml</code> option during use.</p></li></ul><p><img src="https://cdn.xueshu.fun/202406212150019.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+      <category>AI Video Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Face Swap</tag>
+      
+      <tag>Image Face Swap</tag>
+      
+      <tag>Video Face Swap</tag>
+      
+      <tag>Mac</tag>
+      
+    </tags>
     
   </entry>
   
