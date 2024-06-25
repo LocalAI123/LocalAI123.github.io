@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>DreamTalk, AI Digital Human Integration Package for Mac</title>
+    <link href="/2024/06/25/5-dreamtalk/"/>
+    <url>/2024/06/25/5-dreamtalk/</url>
+    
+    <content type="html"><![CDATA[<h2 id="AI-Digital-Human-Integration-Package-for-Mac-DreamTalk"><a href="#AI-Digital-Human-Integration-Package-for-Mac-DreamTalk" class="headerlink" title="AI Digital Human Integration Package for Mac: DreamTalk"></a>AI Digital Human Integration Package for Mac: DreamTalk</h2><p><img src="https://cdn.xueshu.fun/202406252239560.png"></p><p>The download link is: <a href="https://www.patreon.com/user/shop/ai-digital-human-integration-package-for-246930?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/ai-digital-human-integration-package-for-246930?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p><p>DreamTalk is an audio-driven, diffusion-based emoticon pack generation framework capable of creating high-quality emoticon pack videos, covering a variety of speaking styles. DreamTalk demonstrates robust performance when processing various inputs, including songs, multilingual speech, noisy audio, and out-of-domain portraits.</p><p>DreamTalk’s signature feature is to animate a face from just a single portrait image. With the input of a voice, it’s no problem for the face to start speaking, and it can even sync lip movements and expressions to generate a video of a talking head. Based on the large model framework, DreamTalk can learn and infer expressive styles from the input voice and portrait to create personalized expression videos. Even using the same audio source, the portrait can exhibit different emotional expressions such as anger, happiness, sadness, and disdain, with corresponding facial expressions, as shown below.</p><p><img src="https://cdn.xueshu.fun/202403181341626.gif"></p><p>I have packaged the above tools into an easy-to-launch package, which is ready to use with a single click, avoiding various issues with downloading or configuration. </p><p><code>Please note the following computer configuration</code>:</p><ul><li>Apple Silicon M series chip</li><li><code>At least 8GB of memory</code></li></ul><h2 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h2><ol><li>Download the DMG image file from the link above.</li><li>Double-click to open the image file, and you will see the following interface:</li></ol><p><img src="https://cdn.xueshu.fun/202406252220751.png"></p><p>   Drag the <code>app</code> file into the <code>Applications</code> folder.</p><ol start="3"><li>After copying the installation, <code>do not open it from the launchpad for the first time, right-click to open it in the Applications folder</code></li></ol><p><img src="https://cdn.xueshu.fun/202406252221148.png"></p><ol start="4"><li>The software will automatically open the operation interface in the default browser, with the address <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, where you can start using it in the browser.</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Video Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Digital Human</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>One-Click Gradio Web APP for MimicBrush on Windows</title>
     <link href="/2024/06/24/4-mimicbrush/"/>
     <url>/2024/06/24/4-mimicbrush/</url>
