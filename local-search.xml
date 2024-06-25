@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>One-Click Gradio Web APP for MimicBrush on Windows</title>
+    <link href="/2024/06/24/4-mimicbrush/"/>
+    <url>/2024/06/24/4-mimicbrush/</url>
+    
+    <content type="html"><![CDATA[<h1 id="One-Click-Gradio-Web-APP-for-MimicBrush-on-Windows"><a href="#One-Click-Gradio-Web-APP-for-MimicBrush-on-Windows" class="headerlink" title="One-Click Gradio Web APP for MimicBrush on Windows"></a>One-Click Gradio Web APP for MimicBrush on Windows</h1><p>A few days ago, researchers from Alibaba, the University of Hong Kong, and Ant Group jointly launched an incredibly powerful AI tool called MimicBrush. This tool is like a “magic wand” in the realm of image editing, allowing you to easily designate areas on an image that need editing and then locally redraw them with the style of another image. Sounds cool, doesn’t it? Let’s take a closer look at just how magical this “magic wand” is!</p><p><img src="https://cdn.xueshu.fun/202406241603671.png"></p><h2 id="Key-Features-of-MimicBrush"><a href="#Key-Features-of-MimicBrush" class="headerlink" title="Key Features of MimicBrush"></a>Key Features of MimicBrush</h2><h3 id="1-Reference-Image-Simulation"><a href="#1-Reference-Image-Simulation" class="headerlink" title="1. Reference Image Simulation"></a>1. Reference Image Simulation</h3><p>MimicBrush can analyze and replicate visual features from a reference image, then apply those features to the designated area of the source image. It’s like dressing up your picture in a new outfit, ensuring consistency in style and content.</p><h3 id="2-Zero-Sample-Image-Editing"><a href="#2-Zero-Sample-Image-Editing" class="headerlink" title="2. Zero-Sample Image Editing"></a>2. Zero-Sample Image Editing</h3><p>There’s no need for the original target image; you only need to provide a reference image containing the desired effect, and MimicBrush can achieve the editing effect via reference imitation. It’s like a “zero-entry barrier” wizard for image editing!</p><h3 id="3-Text-to-Image-Alignment"><a href="#3-Text-to-Image-Alignment" class="headerlink" title="3. Text-to-Image Alignment"></a>3. Text-to-Image Alignment</h3><p>MimicBrush also leverages a CLIP encoder and VAE to realize text-to-image alignment. You can guide the editing process by entering text descriptions, almost as if you’re telling the AI, “Do it this way!”</p><h3 id="4-Diversified-Editing-Results"><a href="#4-Diversified-Editing-Results" class="headerlink" title="4. Diversified Editing Results"></a>4. Diversified Editing Results</h3><p>Whether it’s local area editing, texture transfer, or post-processing optimization, MimicBrush can showcase a variety of editing results, freeing your creativity from the limitations of tools.</p><h2 id="Application-Scenarios"><a href="#Application-Scenarios" class="headerlink" title="Application Scenarios"></a>Application Scenarios</h2><p>MimicBrush is particularly suitable for product customization, character design, and special effects production. It not only simplifies complex editing workflows but also greatly enhances editing efficiency and flexibility. Its underlying framework is based on the combination of the SD1.5 diffusion model and the MimicBrush model, making it the “ultimate weapon” in AI image editing.</p><h2 id="Quick-Start-Guide"><a href="#Quick-Start-Guide" class="headerlink" title="Quick Start Guide"></a>Quick Start Guide</h2><p>MimicBrush has been packaged into a one-click launch bundle, which you can use with a simple click, eliminating worries about configuration issues. </p><p>Download URL: <a href="https://www.patreon.com/user/shop/one-click-gradio-web-app-for-mimicbrush-245730?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/one-click-gradio-web-app-for-mimicbrush-245730?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a></p><h3 id="System-Requirements"><a href="#System-Requirements" class="headerlink" title="System Requirements"></a>System Requirements</h3><ul><li>Windows 10&#x2F;11 64-bit OS</li><li>NVIDIA graphics card with 8GB VRAM or more</li></ul><h3 id="Download-and-Tutorial"><a href="#Download-and-Tutorial" class="headerlink" title="Download and Tutorial"></a>Download and Tutorial</h3><ol><li><strong>Download the Zip File</strong> and <strong>Unzip the File</strong>:</li></ol><p>After unzipping, avoid having Chinese characters in the path. Double-click the “run.exe” file to run, as shown below.</p><p> <img src="https://cdn.xueshu.fun/202406242141596.png"></p><ol start="2"><li><strong>Access via Browser</strong>:</li></ol><p><img src="https://cdn.xueshu.fun/202406241543218.png"></p><p><img src="https://cdn.xueshu.fun/202406241543672.png"></p><p>Open your browser and visit <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a> to use MimicBrush in the browser.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Windows</tag>
+      
+      <tag>Image Editing</tag>
+      
+      <tag>Image Generator</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Standalone Facefusion 2.6.1 for Windows</title>
     <link href="/2024/06/23/3-AI%20%E6%8D%A2%E8%84%B8%20Facefusion%20windows/"/>
     <url>/2024/06/23/3-AI%20%E6%8D%A2%E8%84%B8%20Facefusion%20windows/</url>
