@@ -1,0 +1,682 @@
+
+
+<!DOCTYPE html>
+<html lang="en" >
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://cdn.xueshu.fun/202406241101199.png">
+  <link rel="icon" href="https://cdn.xueshu.fun/202406241101199.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="John Doe">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="ChatTTS-UI for Mac: The Ultimate Tool for Text-to-Speech Conversion, API Supported!The download link is: https://www.patreon.com/user/shop/chattts-ui-for-mac-ultimate-tool-for-to-249930?u=122446863&amp;ut">
+  
+  
+  
+  <title>ChatTTS-UI for Mac, the Ultimate Tool for Text-to-Speech Conversion, API Supported! - Hexo</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"example.com","root":"/","version":"1.9.7","typing":{"enable":false,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":false},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":false,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+
+  
+<meta name="generator" content="Hexo 7.2.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 25vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>Local AI</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>Home</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>Archives</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>Categories</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>Tags</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.patreon.com/user?u=122446863" target="_self">
+                <i class="iconfont icon-briefcase"></i>
+                <span>Patreon Store</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>About</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('https://cdn.xueshu.fun/default.png') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle">ChatTTS-UI for Mac, the Ultimate Tool for Text-to-Speech Conversion, API Supported!</span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+    
+  </div>
+
+  <div class="mt-1">
+    
+
+    
+
+    
+    
+  </div>
+
+
+        
+      </div>
+
+      
+        <div class="scroll-down-bar">
+          <i class="iconfont icon-arrowdown"></i>
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar category-bar" style="margin-right: -1rem">
+    
+
+
+
+
+
+<div class="category-list">
+  
+  
+    
+    
+    
+    <div class="category row nomargin-x">
+      <a class="category-item 
+          list-group-item category-item-action col-10 col-md-11 col-xm-11" title="AI Audio Generators"
+        id="heading-6d89f506b227462b2e6a1fc29fe4cf17" role="tab" data-toggle="collapse" href="#collapse-6d89f506b227462b2e6a1fc29fe4cf17"
+        aria-expanded="true"
+      >
+        AI Audio Generators
+        <span class="list-group-count">(1)</span>
+        <i class="iconfont icon-arrowright"></i>
+      </a>
+      
+      <div class="category-collapse collapse show" id="collapse-6d89f506b227462b2e6a1fc29fe4cf17"
+           role="tabpanel" aria-labelledby="heading-6d89f506b227462b2e6a1fc29fe4cf17">
+        
+        
+          
+  <div class="category-post-list">
+    
+    
+      
+      
+        <a href="/2024/06/28/9-ChatttsUI/" title="ChatTTS-UI for Mac, the Ultimate Tool for Text-to-Speech Conversion, API Supported!"
+           class="list-group-item list-group-item-action
+           active">
+          <span class="category-post">ChatTTS-UI for Mac, the Ultimate Tool for Text-to-Speech Conversion, API Supported!</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+  </aside>
+
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">ChatTTS-UI for Mac, the Ultimate Tool for Text-to-Speech Conversion, API Supported!</h1>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="ChatTTS-UI-for-Mac-The-Ultimate-Tool-for-Text-to-Speech-Conversion-API-Supported"><a href="#ChatTTS-UI-for-Mac-The-Ultimate-Tool-for-Text-to-Speech-Conversion-API-Supported" class="headerlink" title="ChatTTS-UI for Mac: The Ultimate Tool for Text-to-Speech Conversion, API Supported!"></a>ChatTTS-UI for Mac: The Ultimate Tool for Text-to-Speech Conversion, API Supported!</h1><p>The download link is: <a target="_blank" rel="noopener" href="https://www.patreon.com/user/shop/chattts-ui-for-mac-ultimate-tool-for-to-249930?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/chattts-ui-for-mac-ultimate-tool-for-to-249930?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p>
+<p><img src="https://cdn.xueshu.fun/202406280902694.png"></p>
+<p>Recently, there’s an exciting project called ChatTTS-UI. It’s a simple local web interface that uses ChatTTS to convert text to speech and supports external API calls. The project is open-source and can be found here: <a target="_blank" rel="noopener" href="https://github.com/jianchang512/ChatTTS-ui">https://github.com/jianchang512/ChatTTS-ui</a></p>
+<h2 id="Features-of-ChatTTS-UI"><a href="#Features-of-ChatTTS-UI" class="headerlink" title="Features of ChatTTS-UI"></a>Features of ChatTTS-UI</h2><p>Compared to the official usage page, ChatTTS-UI has the following features:</p>
+<ul>
+<li>Mixed effects of text, numbers, and symbol control characters</li>
+<li>Optimization of Chinese text normalization</li>
+<li>Added speed control (speed 1-9)</li>
+<li>Fixed voice tone</li>
+<li>Added <code>compile=true</code> to enable inference optimization</li>
+<li>Numbers are converted to corresponding language pronunciations</li>
+<li>Added Chinese-English word segmentation function</li>
+<li>Improved interface and API</li>
+<li>Added <code>top_p</code> and <code>top_k</code> parameter controls</li>
+<li>Multi-line text synthesized line by line</li>
+<li>Custom voice tone seed value</li>
+<li>Option to skip the <code>refine text</code> stage</li>
+<li>Online text synthesis via web page</li>
+<li>API interface support</li>
+</ul>
+<h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, I have packaged the tool into a standalone startup package. Users can run it with a simple click without the need for configuring a complex Python environment. Here are the detailed steps to obtain and install the application:</p>
+<h3 id="Download-the-Application"><a href="#Download-the-Application" class="headerlink" title="Download the Application"></a>Download the Application</h3><p><strong>Note: Only supports devices with Mac M1&#x2F;2&#x2F;3 series chips.</strong></p>
+<h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol>
+<li><p>Download the DMG image file from the link above and drag the <code>app</code> file into the <code>Applications</code> folder.<br><img src="https://cdn.xueshu.fun/202406280905706.png"></p>
+</li>
+<li><p>After copying and completing the installation, do not open it from the Launchpad for the first time. Instead, right-click in the Applications folder to open it.</p>
+</li>
+<li><p>The software will automatically open the operation interface in the default browser, and you can start using it in the browser.</p>
+</li>
+</ol>
+<p><img src="https://cdn.xueshu.fun/202406280900647.png"></p>
+<h2 id="ChatTTS-Usage-Tips"><a href="#ChatTTS-Usage-Tips" class="headerlink" title="ChatTTS Usage Tips"></a>ChatTTS Usage Tips</h2><h3 id="Control-Symbols-Available-in-Text"><a href="#Control-Symbols-Available-in-Text" class="headerlink" title="Control Symbols Available in Text"></a>Control Symbols Available in Text</h3><p>You can intersperse control symbols in the original text to be synthesized. Currently, two control symbols are supported: laughter and pause.</p>
+<ul>
+<li><strong>[laugh] represents laughter</strong></li>
+<li><strong>[uv_break] represents a pause</strong></li>
+</ul>
+<p>For example:</p>
+<figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs abnf"><span class="hljs-attribute">text</span><span class="hljs-operator">=</span><span class="hljs-string">&quot;Hello [uv_break] friends, I heard today is a good day, isn&#x27;t it[uv_break]?[laugh]&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>In the actual synthesis, <code>[laugh]</code> will be replaced by laughter, and <code>[uv_break]</code> will introduce a pause. The intensity of laughter and pauses can be controlled by passing <code>prompt</code> in the <code>params_refine_text</code> parameter.</p>
+<figure class="highlight inform7"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs inform7">chat.infer(<span class="hljs-comment">[text]</span>, params_refine_text=&#123;<span class="hljs-string">&quot;prompt&quot;</span>:&#x27;<span class="hljs-comment">[oral_2]</span><span class="hljs-comment">[laugh_0]</span><span class="hljs-comment">[break_6]</span>&#x27;&#125;)<br>chat.infer(<span class="hljs-comment">[text]</span>, params_refine_text=&#123;<span class="hljs-string">&quot;prompt&quot;</span>:&#x27;<span class="hljs-comment">[oral_2]</span><span class="hljs-comment">[laugh_2]</span><span class="hljs-comment">[break_4]</span>&#x27;&#125;)<br></code></pre></td></tr></table></figure>
+
+<h3 id="Skipping-the-Refine-Text-Stage"><a href="#Skipping-the-Refine-Text-Stage" class="headerlink" title="Skipping the Refine Text Stage"></a>Skipping the Refine Text Stage</h3><p>The actual synthesis will re-organize (refine) the text with control symbols. If you do not want this, you can set the <code>skip_refine_text</code> parameter to <code>True</code>.</p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs routeros">chat.infer([text], <span class="hljs-attribute">skip_refine_text</span>=<span class="hljs-literal">True</span>, params_refine_text=&#123;<span class="hljs-string">&quot;prompt&quot;</span>:<span class="hljs-string">&#x27;[oral_2][laugh_0][break_6]&#x27;</span>&#125;)<br></code></pre></td></tr></table></figure>
+
+<h3 id="Fixing-the-Voice-Tone"><a href="#Fixing-the-Voice-Tone" class="headerlink" title="Fixing the Voice Tone"></a>Fixing the Voice Tone</h3><p>By default, each synthesis randomly calls a different voice tone, which can be unfriendly. To simply fix the voice role, you can manually set a random seed and then get a random speaker.</p>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs stylus">torch<span class="hljs-selector-class">.manual_seed</span>(<span class="hljs-number">2222</span>)<br>rand_spk = chat<span class="hljs-selector-class">.sample_random_speaker</span>()<br>chat<span class="hljs-selector-class">.infer</span>(<span class="hljs-selector-attr">[text]</span>, use_decoder=True, params_infer_code=&#123;<span class="hljs-string">&#x27;spk_emb&#x27;</span>: rand_spk&#125;)<br></code></pre></td></tr></table></figure>
+
+<p>Through testing, <code>2222 7869 6653</code> are male voices, and <code>3333 4099 5099</code> are female voices. You can test different seed numbers to find more voices.</p>
+<h2 id="API-Request-Tutorial"><a href="#API-Request-Tutorial" class="headerlink" title="API Request Tutorial"></a>API Request Tutorial</h2><p><strong>Request Method:</strong> POST<br><strong>Request URL:</strong> <a target="_blank" rel="noopener" href="http://127.0.0.1:9966/tts">http://127.0.0.1:9966/tts</a>  </p>
+<p><strong>Request Parameters:</strong></p>
+<ul>
+<li>text: str | Required, the text to be synthesized</li>
+<li>voice: int | Optional, default 2222, the number determining the voice tone, 2222 | 7869 | 6653 | 4099 | 5099, you can choose one or pass any value to use a random voice tone</li>
+<li>prompt: str | Optional, default empty, set laughter, pause, for example [oral_2][laugh_0][break_6]</li>
+<li>temperature: float | Optional, default 0.3</li>
+<li>top_p: float | Optional, default 0.7</li>
+<li>top_k: int | Optional, default 20</li>
+<li>skip_refine: int | Optional, default 0, 1&#x3D;skip refine text, 0&#x3D;do not skip</li>
+<li>custom_voice: int | Optional, default 0, the seed value for custom voice tone, needs to be an integer greater than 0, if set, it will take precedence and ignore <code>voice</code></li>
+<li>is_split: int | Optional, default 0, 1&#x3D;convert numbers to text for correct pronunciation, 0&#x3D;keep unchanged</li>
+</ul>
+<p><strong>Response: JSON data</strong></p>
+<p>Successful response:</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">&#123;<span class="hljs-selector-tag">code</span>:<span class="hljs-number">0</span>, msg:ok, audio_files:[dict1, dict2]&#125;<br></code></pre></td></tr></table></figure>
+<p>Where <code>audio_files</code> is an array of dictionaries, each element <code>dict</code> is {filename: absolute path of the wav file, url: downloadable wav URL}</p>
+<p>Error response:</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">&#123;<span class="hljs-selector-tag">code</span>:<span class="hljs-number">1</span>, msg:reason for error&#125;<br></code></pre></td></tr></table></figure>
+
+<h3 id="API-Call-Code"><a href="#API-Call-Code" class="headerlink" title="API Call Code"></a>API Call Code</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> requests<br><br>res = requests.post(<span class="hljs-string">&#x27;http://127.0.0.1:9966/tts&#x27;</span>, data=&#123;<br>  <span class="hljs-string">&quot;text&quot;</span>: <span class="hljs-string">&quot;If you don&#x27;t understand, no need to fill it out&quot;</span>,<br>  <span class="hljs-string">&quot;prompt&quot;</span>: <span class="hljs-string">&quot;&quot;</span>,<br>  <span class="hljs-string">&quot;voice&quot;</span>: <span class="hljs-string">&quot;3333&quot;</span>,<br>  <span class="hljs-string">&quot;temperature&quot;</span>: <span class="hljs-number">0.3</span>,<br>  <span class="hljs-string">&quot;top_p&quot;</span>: <span class="hljs-number">0.7</span>,<br>  <span class="hljs-string">&quot;top_k&quot;</span>: <span class="hljs-number">20</span>,<br>  <span class="hljs-string">&quot;skip_refine&quot;</span>: <span class="hljs-number">0</span>,<br>  <span class="hljs-string">&quot;custom_voice&quot;</span>: <span class="hljs-number">0</span>,<br>  <span class="hljs-string">&quot;is_split&quot;</span>: <span class="hljs-number">1</span><br>&#125;)<br><span class="hljs-built_in">print</span>(res.json())<br></code></pre></td></tr></table></figure>
+
+<p>Successful call result:</p>
+<figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs gradle">&#123;code:<span class="hljs-number">0</span>, msg:<span class="hljs-string">&#x27;ok&#x27;</span>, audio_files:[&#123;filename: E:<span class="hljs-regexp">/python/</span>chattts<span class="hljs-regexp">/static/</span>wavs<span class="hljs-regexp">/20240601-22_12_12-c7456293f7b5e4dfd3ff83bbd884a23e.wav, url: http:/</span><span class="hljs-regexp">/127.0.0.1:9966/</span><span class="hljs-keyword">static</span><span class="hljs-regexp">/wavs/</span><span class="hljs-number">20240601</span>-<span class="hljs-number">22</span>_12_12-c7456293f7b5e4dfd3ff83bbd884a23e.wav&#125;]&#125;<br></code></pre></td></tr></table></figure>
+
+<p>Error result:</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">&#123;<span class="hljs-selector-tag">code</span>:<span class="hljs-number">1</span>, msg:<span class="hljs-string">&quot;error&quot;</span>&#125;<br></code></pre></td></tr></table></figure>
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/AI-Audio-Generators/" class="category-chain-item">AI Audio Generators</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/Mac/" class="print-no-link">#Mac</a>
+      
+        <a href="/tags/TTS/" class="print-no-link">#TTS</a>
+      
+    </div>
+  
+</div>
+
+
+              
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2024/06/28/10-Mac%E7%89%88%E4%B8%80%E9%94%AE%E8%A7%86%E9%A2%91%E5%8E%BB%E8%83%8C%E6%99%AFAPP/" title="Mac Version One-Click Video Background Removal App">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">Mac Version One-Click Video Background Removal App</span>
+                        <span class="visible-mobile">Previous</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2024/06/28/8-inpaint/" title="Mac Image Restoration Application, Revitalize Your Old Photos">
+                        <span class="hidden-mobile">Mac Image Restoration Application, Revitalize Your Old Photos</span>
+                        <span class="visible-mobile">Next</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>Table of Contents</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">Search</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">Keyword</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://www.patreon.com/user?u=122446863" target="_blank" rel="nofollow noopener"><span>Local AI Patreon Store</span></a> 
+    </div>
+  
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+
+
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">Blog works best with JavaScript enabled</div>
+  </noscript>
+</body>
+</html>

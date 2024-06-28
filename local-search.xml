@@ -4,6 +4,141 @@
   
   
   <entry>
+    <title>Mac Version One-Click Video Background Removal App</title>
+    <link href="/2024/06/28/10-Mac%E7%89%88%E4%B8%80%E9%94%AE%E8%A7%86%E9%A2%91%E5%8E%BB%E8%83%8C%E6%99%AFAPP/"/>
+    <url>/2024/06/28/10-Mac%E7%89%88%E4%B8%80%E9%94%AE%E8%A7%86%E9%A2%91%E5%8E%BB%E8%83%8C%E6%99%AFAPP/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Mac-Version-One-Click-Video-Background-Removal-App"><a href="#Mac-Version-One-Click-Video-Background-Removal-App" class="headerlink" title="Mac Version One-Click Video Background Removal App"></a>Mac Version One-Click Video Background Removal App</h1><p>The download link is: <a href="https://www.patreon.com/user/shop/mac-version-one-click-video-background-249933?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/mac-version-one-click-video-background-249933?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p><p><img src="https://cdn.xueshu.fun/202406280906286.png"></p><p>The Mac Version One-Click Video Background Removal App provides a simple and efficient solution for automatically removing the background from videos. This tool can identify and retain the main subject in the video without requiring complex operations or an internet connection, offering an excellent user experience.</p><h2 id="How-to-Easily-Install-This-App"><a href="#How-to-Easily-Install-This-App" class="headerlink" title="How to Easily Install This App"></a>How to Easily Install This App</h2><p>To facilitate users, we have provided a straightforward installation process. Here are the steps to quickly obtain and install the Mac Version One-Click Video Background Removal App:</p><h3 id="Download-the-Application"><a href="#Download-the-Application" class="headerlink" title="Download the Application"></a>Download the Application</h3><p><strong>Note: The application only supports devices with Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>After the download is complete, you will get a DMG image file.</li><li>Double-click to open the image file, and you will see the following interface:</li></ol><p><img src="https://cdn.xueshu.fun/202406280906874.png"></p><p>   Then, drag the <code>app</code> file to the <code>Applications</code> folder to install.</p><ol start="3"><li>Find the application in the <code>Applications</code> folder. For the first launch, please do not click directly; instead, right-click and select “Open” to avoid potential permission issues.</li></ol><p><img src="https://cdn.xueshu.fun/202406280906286.png"></p><ol start="4"><li>The application will automatically open the default browser and navigate to the operation page at <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>. You can then start using this powerful video background removal tool in your browser.</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Video Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>Video Editing</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ChatTTS-UI for Mac, the Ultimate Tool for Text-to-Speech Conversion, API Supported!</title>
+    <link href="/2024/06/28/9-ChatttsUI/"/>
+    <url>/2024/06/28/9-ChatttsUI/</url>
+    
+    <content type="html"><![CDATA[<h1 id="ChatTTS-UI-for-Mac-The-Ultimate-Tool-for-Text-to-Speech-Conversion-API-Supported"><a href="#ChatTTS-UI-for-Mac-The-Ultimate-Tool-for-Text-to-Speech-Conversion-API-Supported" class="headerlink" title="ChatTTS-UI for Mac: The Ultimate Tool for Text-to-Speech Conversion, API Supported!"></a>ChatTTS-UI for Mac: The Ultimate Tool for Text-to-Speech Conversion, API Supported!</h1><p>The download link is: <a href="https://www.patreon.com/user/shop/chattts-ui-for-mac-ultimate-tool-for-to-249930?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/chattts-ui-for-mac-ultimate-tool-for-to-249930?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p><p><img src="https://cdn.xueshu.fun/202406280902694.png"></p><p>Recently, there’s an exciting project called ChatTTS-UI. It’s a simple local web interface that uses ChatTTS to convert text to speech and supports external API calls. The project is open-source and can be found here: <a href="https://github.com/jianchang512/ChatTTS-ui">https://github.com/jianchang512/ChatTTS-ui</a></p><h2 id="Features-of-ChatTTS-UI"><a href="#Features-of-ChatTTS-UI" class="headerlink" title="Features of ChatTTS-UI"></a>Features of ChatTTS-UI</h2><p>Compared to the official usage page, ChatTTS-UI has the following features:</p><ul><li>Mixed effects of text, numbers, and symbol control characters</li><li>Optimization of Chinese text normalization</li><li>Added speed control (speed 1-9)</li><li>Fixed voice tone</li><li>Added <code>compile=true</code> to enable inference optimization</li><li>Numbers are converted to corresponding language pronunciations</li><li>Added Chinese-English word segmentation function</li><li>Improved interface and API</li><li>Added <code>top_p</code> and <code>top_k</code> parameter controls</li><li>Multi-line text synthesized line by line</li><li>Custom voice tone seed value</li><li>Option to skip the <code>refine text</code> stage</li><li>Online text synthesis via web page</li><li>API interface support</li></ul><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, I have packaged the tool into a standalone startup package. Users can run it with a simple click without the need for configuring a complex Python environment. Here are the detailed steps to obtain and install the application:</p><h3 id="Download-the-Application"><a href="#Download-the-Application" class="headerlink" title="Download the Application"></a>Download the Application</h3><p><strong>Note: Only supports devices with Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li><p>Download the DMG image file from the link above and drag the <code>app</code> file into the <code>Applications</code> folder.<br><img src="https://cdn.xueshu.fun/202406280905706.png"></p></li><li><p>After copying and completing the installation, do not open it from the Launchpad for the first time. Instead, right-click in the Applications folder to open it.</p></li><li><p>The software will automatically open the operation interface in the default browser, and you can start using it in the browser.</p></li></ol><p><img src="https://cdn.xueshu.fun/202406280900647.png"></p><h2 id="ChatTTS-Usage-Tips"><a href="#ChatTTS-Usage-Tips" class="headerlink" title="ChatTTS Usage Tips"></a>ChatTTS Usage Tips</h2><h3 id="Control-Symbols-Available-in-Text"><a href="#Control-Symbols-Available-in-Text" class="headerlink" title="Control Symbols Available in Text"></a>Control Symbols Available in Text</h3><p>You can intersperse control symbols in the original text to be synthesized. Currently, two control symbols are supported: laughter and pause.</p><ul><li><strong>[laugh] represents laughter</strong></li><li><strong>[uv_break] represents a pause</strong></li></ul><p>For example:</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs abnf"><span class="hljs-attribute">text</span><span class="hljs-operator">=</span><span class="hljs-string">&quot;Hello [uv_break] friends, I heard today is a good day, isn&#x27;t it[uv_break]?[laugh]&quot;</span><br></code></pre></td></tr></table></figure><p>In the actual synthesis, <code>[laugh]</code> will be replaced by laughter, and <code>[uv_break]</code> will introduce a pause. The intensity of laughter and pauses can be controlled by passing <code>prompt</code> in the <code>params_refine_text</code> parameter.</p><figure class="highlight inform7"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs inform7">chat.infer(<span class="hljs-comment">[text]</span>, params_refine_text=&#123;<span class="hljs-string">&quot;prompt&quot;</span>:&#x27;<span class="hljs-comment">[oral_2]</span><span class="hljs-comment">[laugh_0]</span><span class="hljs-comment">[break_6]</span>&#x27;&#125;)<br>chat.infer(<span class="hljs-comment">[text]</span>, params_refine_text=&#123;<span class="hljs-string">&quot;prompt&quot;</span>:&#x27;<span class="hljs-comment">[oral_2]</span><span class="hljs-comment">[laugh_2]</span><span class="hljs-comment">[break_4]</span>&#x27;&#125;)<br></code></pre></td></tr></table></figure><h3 id="Skipping-the-Refine-Text-Stage"><a href="#Skipping-the-Refine-Text-Stage" class="headerlink" title="Skipping the Refine Text Stage"></a>Skipping the Refine Text Stage</h3><p>The actual synthesis will re-organize (refine) the text with control symbols. If you do not want this, you can set the <code>skip_refine_text</code> parameter to <code>True</code>.</p><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs routeros">chat.infer([text], <span class="hljs-attribute">skip_refine_text</span>=<span class="hljs-literal">True</span>, params_refine_text=&#123;<span class="hljs-string">&quot;prompt&quot;</span>:<span class="hljs-string">&#x27;[oral_2][laugh_0][break_6]&#x27;</span>&#125;)<br></code></pre></td></tr></table></figure><h3 id="Fixing-the-Voice-Tone"><a href="#Fixing-the-Voice-Tone" class="headerlink" title="Fixing the Voice Tone"></a>Fixing the Voice Tone</h3><p>By default, each synthesis randomly calls a different voice tone, which can be unfriendly. To simply fix the voice role, you can manually set a random seed and then get a random speaker.</p><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs stylus">torch<span class="hljs-selector-class">.manual_seed</span>(<span class="hljs-number">2222</span>)<br>rand_spk = chat<span class="hljs-selector-class">.sample_random_speaker</span>()<br>chat<span class="hljs-selector-class">.infer</span>(<span class="hljs-selector-attr">[text]</span>, use_decoder=True, params_infer_code=&#123;<span class="hljs-string">&#x27;spk_emb&#x27;</span>: rand_spk&#125;)<br></code></pre></td></tr></table></figure><p>Through testing, <code>2222 7869 6653</code> are male voices, and <code>3333 4099 5099</code> are female voices. You can test different seed numbers to find more voices.</p><h2 id="API-Request-Tutorial"><a href="#API-Request-Tutorial" class="headerlink" title="API Request Tutorial"></a>API Request Tutorial</h2><p><strong>Request Method:</strong> POST<br><strong>Request URL:</strong> <a href="http://127.0.0.1:9966/tts">http://127.0.0.1:9966/tts</a>  </p><p><strong>Request Parameters:</strong></p><ul><li>text: str | Required, the text to be synthesized</li><li>voice: int | Optional, default 2222, the number determining the voice tone, 2222 | 7869 | 6653 | 4099 | 5099, you can choose one or pass any value to use a random voice tone</li><li>prompt: str | Optional, default empty, set laughter, pause, for example [oral_2][laugh_0][break_6]</li><li>temperature: float | Optional, default 0.3</li><li>top_p: float | Optional, default 0.7</li><li>top_k: int | Optional, default 20</li><li>skip_refine: int | Optional, default 0, 1&#x3D;skip refine text, 0&#x3D;do not skip</li><li>custom_voice: int | Optional, default 0, the seed value for custom voice tone, needs to be an integer greater than 0, if set, it will take precedence and ignore <code>voice</code></li><li>is_split: int | Optional, default 0, 1&#x3D;convert numbers to text for correct pronunciation, 0&#x3D;keep unchanged</li></ul><p><strong>Response: JSON data</strong></p><p>Successful response:</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">&#123;<span class="hljs-selector-tag">code</span>:<span class="hljs-number">0</span>, msg:ok, audio_files:[dict1, dict2]&#125;<br></code></pre></td></tr></table></figure><p>Where <code>audio_files</code> is an array of dictionaries, each element <code>dict</code> is {filename: absolute path of the wav file, url: downloadable wav URL}</p><p>Error response:</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">&#123;<span class="hljs-selector-tag">code</span>:<span class="hljs-number">1</span>, msg:reason for error&#125;<br></code></pre></td></tr></table></figure><h3 id="API-Call-Code"><a href="#API-Call-Code" class="headerlink" title="API Call Code"></a>API Call Code</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> requests<br><br>res = requests.post(<span class="hljs-string">&#x27;http://127.0.0.1:9966/tts&#x27;</span>, data=&#123;<br>  <span class="hljs-string">&quot;text&quot;</span>: <span class="hljs-string">&quot;If you don&#x27;t understand, no need to fill it out&quot;</span>,<br>  <span class="hljs-string">&quot;prompt&quot;</span>: <span class="hljs-string">&quot;&quot;</span>,<br>  <span class="hljs-string">&quot;voice&quot;</span>: <span class="hljs-string">&quot;3333&quot;</span>,<br>  <span class="hljs-string">&quot;temperature&quot;</span>: <span class="hljs-number">0.3</span>,<br>  <span class="hljs-string">&quot;top_p&quot;</span>: <span class="hljs-number">0.7</span>,<br>  <span class="hljs-string">&quot;top_k&quot;</span>: <span class="hljs-number">20</span>,<br>  <span class="hljs-string">&quot;skip_refine&quot;</span>: <span class="hljs-number">0</span>,<br>  <span class="hljs-string">&quot;custom_voice&quot;</span>: <span class="hljs-number">0</span>,<br>  <span class="hljs-string">&quot;is_split&quot;</span>: <span class="hljs-number">1</span><br>&#125;)<br><span class="hljs-built_in">print</span>(res.json())<br></code></pre></td></tr></table></figure><p>Successful call result:</p><figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs gradle">&#123;code:<span class="hljs-number">0</span>, msg:<span class="hljs-string">&#x27;ok&#x27;</span>, audio_files:[&#123;filename: E:<span class="hljs-regexp">/python/</span>chattts<span class="hljs-regexp">/static/</span>wavs<span class="hljs-regexp">/20240601-22_12_12-c7456293f7b5e4dfd3ff83bbd884a23e.wav, url: http:/</span><span class="hljs-regexp">/127.0.0.1:9966/</span><span class="hljs-keyword">static</span><span class="hljs-regexp">/wavs/</span><span class="hljs-number">20240601</span>-<span class="hljs-number">22</span>_12_12-c7456293f7b5e4dfd3ff83bbd884a23e.wav&#125;]&#125;<br></code></pre></td></tr></table></figure><p>Error result:</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs css">&#123;<span class="hljs-selector-tag">code</span>:<span class="hljs-number">1</span>, msg:<span class="hljs-string">&quot;error&quot;</span>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Audio Generators</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>TTS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Mac Image Restoration Application, Revitalize Your Old Photos</title>
+    <link href="/2024/06/28/8-inpaint/"/>
+    <url>/2024/06/28/8-inpaint/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Mac-Image-Restoration-Application-Revitalize-Your-Old-Photos"><a href="#Mac-Image-Restoration-Application-Revitalize-Your-Old-Photos" class="headerlink" title="Mac Image Restoration Application: Revitalize Your Old Photos"></a>Mac Image Restoration Application: Revitalize Your Old Photos</h1><p>The download link is: <a href="https://www.patreon.com/user/shop/mac-image-restoration-application-your-249928?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/mac-image-restoration-application-your-249928?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p><p><img src="https://cdn.xueshu.fun/202406280853151.png"></p><p>Hello everyone! Today, I want to introduce a super cool online tool called <strong>inpaint-web</strong>! This is a free and open-source tool based on WebGPU and WASM technology that you can use directly in your browser to repair and upscale images without the need to install any software. Imagine you have an old photo with some blemishes or unwanted objects. With inpaint-web’s image restoration feature, you can easily remove these imperfections. There is also a feature for enhancing image resolution. If you have old photos with low resolution, inpaint-web can help you increase the resolution, making the details clearer!</p><h2 id="What-is-inpaint-web"><a href="#What-is-inpaint-web" class="headerlink" title="What is inpaint-web?"></a>What is inpaint-web?</h2><p><code>inpaint-web</code> is a free and open-source tool based on WebGPU and WASM technology that enables image restoration (inpainting) and upscaling directly in the browser. This means you don’t need to install any software; just open your browser to perform high-quality image processing.</p><h2 id="Key-Features"><a href="#Key-Features" class="headerlink" title="Key Features"></a>Key Features</h2><ul><li><strong>Inpaint (Image Restoration)</strong>: Whether it’s blemishes or unwanted objects in your photos, <code>inpaint-web</code> can intelligently fill or remove them, making your images look flawless.</li><li><strong>Super-Resolution (Image Upscaling)</strong>: Have old photos with low resolution? <code>inpaint-web</code> can increase the image resolution, making the details clearer.</li></ul><h2 id="Technical-Support"><a href="#Technical-Support" class="headerlink" title="Technical Support"></a>Technical Support</h2><ul><li><strong>WebGPU</strong>: The next-generation Web graphics API provides more efficient graphics rendering capabilities.</li><li><strong>WASM</strong> (WebAssembly): A binary instruction format designed for modern web browsers, allowing near-native performance in the browser.</li></ul><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, the tool has been packaged into a standalone launch package. Users only need to click to run it, without the need to configure a complex Python environment. Here are the detailed steps to obtain and install the application:</p><h3 id="Download-the-Application"><a href="#Download-the-Application" class="headerlink" title="Download the Application"></a>Download the Application</h3><p><strong>Note: Only supports devices with Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>Download the DMG image file from the above link and drag the <code>app</code> file to the <code>Applications</code> folder.</li></ol><p><img src="https://cdn.xueshu.fun/202406280850273.png"></p><ol start="2"><li>After copying the installation, <strong>do not open it from the Launchpad on the first launch; right-click to open it from the Applications folder</strong>.</li><li>The software will automatically open the operation interface in the default browser at <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, at which point you can start using it in the browser.</li></ol><p><img src="https://cdn.xueshu.fun/202406280850872.png"></p><h3 id="Usage-Instructions"><a href="#Usage-Instructions" class="headerlink" title="Usage Instructions"></a>Usage Instructions</h3><ol><li>Upload the image you want to process.</li><li>Choose the restoration or upscaling function.</li><li>Wait for the intelligent algorithm in the browser to complete the processing.</li><li>Download or share the processed image.</li></ol><h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p><code>inpaint-web</code> is not just a tool but a product of the collective wisdom of the open-source community, combining technology and creativity. Whether you are a professional photographer or an image processing enthusiast, <code>inpaint-web</code> can be a great assistant to enhance the quality of your work.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>Image Editing</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Mac Commercial-Grade One-Click AI Image Background Removal App</title>
+    <link href="/2024/06/28/7-Mac%E5%95%86%E4%B8%9A%E7%BA%A7%E4%B8%80%E9%94%AEAI%E5%9B%BE%E7%89%87%E8%83%8C%E6%99%AF%E5%8E%BB%E9%99%A4APP/"/>
+    <url>/2024/06/28/7-Mac%E5%95%86%E4%B8%9A%E7%BA%A7%E4%B8%80%E9%94%AEAI%E5%9B%BE%E7%89%87%E8%83%8C%E6%99%AF%E5%8E%BB%E9%99%A4APP/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Mac-Commercial-Grade-One-Click-AI-Image-Background-Removal-App"><a href="#Mac-Commercial-Grade-One-Click-AI-Image-Background-Removal-App" class="headerlink" title="Mac Commercial-Grade One-Click AI Image Background Removal App"></a>Mac Commercial-Grade One-Click AI Image Background Removal App</h1><p>The download link is: <a href="https://www.patreon.com/user/shop/mac-commercial-grade-one-click-ai-image-249926?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/mac-commercial-grade-one-click-ai-image-249926?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p><p><img src="https://cdn.xueshu.fun/202402151018647.png"></p><p><strong>BRIA Background Removal</strong> (abbreviated as <strong>BRIA Background Removal</strong>) is a commercial-grade image background removal application developed by BRIA.AI. It utilizes open-source models to separate the background and foreground of images. This app can quickly and accurately provide users with one-click background removal services, suitable for various non-commercial purposes.</p><h2 id="Effect-Display"><a href="#Effect-Display" class="headerlink" title="Effect Display"></a>Effect Display</h2><p>Our latest model, <strong>RMBG v1.4</strong>, has been trained on a large dataset, including stock images, e-commerce product photos, game screenshots, and advertising materials. It can handle images in various complex scenarios. The model excels in accuracy, processing speed, and diversity, making it highly suitable for enterprises and content creators.</p><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>We have packaged this tool to simplify the installation steps, allowing users to quickly use it without cumbersome environment configurations.</p><h3 id="Download-the-Application"><a href="#Download-the-Application" class="headerlink" title="Download the Application"></a>Download the Application</h3><blockquote><p><strong>Note</strong>: This application only supports Mac devices and must be equipped with M1&#x2F;2&#x2F;3 series chips.</p></blockquote><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>Download the DMG image file.</li><li>Double-click to open the image file, and drag the application to the <code>Applications</code> folder.</li></ol><p><img src="https://cdn.xueshu.fun/202406280849603.png"></p><ol start="3"><li>Locate the application in the <code>Applications</code> folder, right-click and select “Open” to avoid first-time launch security restrictions.</li></ol><p><img src="https://cdn.xueshu.fun/202406280849913.png"></p><ol start="4"><li>Once successfully launched, the software will automatically open the operation interface in the default browser at <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, where users can start using it in the browser.</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>Image Editing</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>One-Click Local Package of the CausalLM 7B Model on Mac</title>
+    <link href="/2024/06/28/6-Mac%E7%89%88%E6%9C%AA%E7%BB%8F%E6%95%B0%E6%8D%AE%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8BCausalLM/"/>
+    <url>/2024/06/28/6-Mac%E7%89%88%E6%9C%AA%E7%BB%8F%E6%95%B0%E6%8D%AE%E5%AE%A1%E6%9F%A5%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8BCausalLM/</url>
+    
+    <content type="html"><![CDATA[<h1 id="One-Click-Local-Package-of-the-CausalLM-7B-Model-on-Mac"><a href="#One-Click-Local-Package-of-the-CausalLM-7B-Model-on-Mac" class="headerlink" title="One-Click Local Package of the CausalLM 7B Model on Mac"></a>One-Click Local Package of the CausalLM 7B Model on Mac</h1><p>The download link is: <a href="https://www.patreon.com/user/shop/one-click-local-package-of-causallm-7b-249922?u=122446863&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link">https://www.patreon.com/user/shop/one-click-local-package-of-causallm-7b-249922?u=122446863&utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;productshare_creator&amp;utm_content&#x3D;join_link</a>.</p><p><img src="https://cdn.xueshu.fun/202406280847470.png"></p><p>The CausalLM 7B model is developed based on Qwen’s model weights and is trained on an unfiltered internet dataset. Due to the lack of rigorous review of the training data, the model may generate inappropriate content, such as pornography, violence, and offensive language. Users must take responsibility for checking the safety of the model’s output and filter out sensitive vocabulary. Given the limitations of computational resources, we are currently unable to perform reinforcement learning from human feedback (RLHF) for ethical and safety reinforcement, nor can we apply restrictive fine-tuning (SFT) to train the model to refuse certain types of questions.</p><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, we provide a packaged startup kit, so users do not need to configure a complex Python environment. Just follow a few steps to start using it. Here is a detailed guide on how to obtain and install the CausalLM 7B application:</p><h3 id="Download-the-Application"><a href="#Download-the-Application" class="headerlink" title="Download the Application"></a>Download the Application</h3><p><strong>Note: This application only supports devices equipped with Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>Download the DMG image file from the link provided above.</li><li>Double-click the file. After opening it, you will see the following interface:</li></ol><p><img src="https://cdn.xueshu.fun/202406280845862.png"></p><p>   Please drag the <code>CausalLM 7B.app</code> icon to the <code>Applications</code> folder.</p><ol start="3"><li>After installation, do not open the application directly from the Launchpad. Instead, go to the <code>Applications</code> folder and right-click to select <code>Open</code>.</li></ol><p><img src="https://cdn.xueshu.fun/202406280845741.png"></p><ol start="4"><li>Open the operation interface in your browser at the address: <a href="http://127.0.0.1:5001/">http://127.0.0.1:5001/</a>. Now, you can start using the CausalLM 7B model in your browser.</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Text Generators</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>LLMs</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>DreamTalk, AI Digital Human Integration Package for Mac</title>
     <link href="/2024/06/25/5-dreamtalk/"/>
     <url>/2024/06/25/5-dreamtalk/</url>
@@ -19,6 +154,8 @@
     
     
     <tags>
+      
+      <tag>Mac</tag>
       
       <tag>Digital Human</tag>
       
@@ -106,6 +243,8 @@
     
     
     <tags>
+      
+      <tag>Mac</tag>
       
       <tag>MLX</tag>
       
