@@ -4,6 +4,60 @@
   
   
   <entry>
+    <title>Face Adapter, One-Click Facial Expression Control and Face Swap Package for Windows</title>
+    <link href="/2024/07/01/12-Face%20Adapter/"/>
+    <url>/2024/07/01/12-Face%20Adapter/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Face-Adapter-One-Click-Facial-Expression-Control-and-Face-Swap-Package-for-Windows"><a href="#Face-Adapter-One-Click-Facial-Expression-Control-and-Face-Swap-Package-for-Windows" class="headerlink" title="Face Adapter: One-Click Facial Expression Control and Face Swap Package for Windows"></a>Face Adapter: One-Click Facial Expression Control and Face Swap Package for Windows</h1><p>The download link is: <a href="https://www.patreon.com/user?u=122446863">https://www.patreon.com/user?u=122446863</a>.</p><p>Recently, the AI field has been buzzing with excitement over a new technology – Face Adapter. This adapter is specifically designed for pre-trained diffusion models, enabling facial reenactment and face swapping while offering precise individual recognition and attribute control functionalities. With this model, you can generate two images simultaneously: one that retains the facial features of the original image and another that incorporates the expression features of the target image, achieving seamless facial information transfer and fusion. The advent of Face Adapter is set to revolutionize the field of facial editing.</p><p><img src="https://cdn.xueshu.fun/202407011721268.png"></p><p>In the realm of facial editing, particularly in tasks like facial reenactment and face swapping, existing technologies often fall short. Face Adapter was created to address these shortcomings.</p><h3 id="Facial-Reenactment"><a href="#Facial-Reenactment" class="headerlink" title="Facial Reenactment"></a>Facial Reenactment</h3><p>Current SD adapters struggle to control fine-grained target structures based on text attributes during facial editing.</p><h3 id="Face-Swapping"><a href="#Face-Swapping" class="headerlink" title="Face Swapping"></a>Face Swapping</h3><p>In the task of face swapping, existing SD adapters face challenges in generating facial details and handling changes in facial shapes.</p><h2 id="Adapter-Design"><a href="#Adapter-Design" class="headerlink" title="Adapter Design"></a>Adapter Design</h2><p>Face Adapter boasts the following features:</p><ul><li><strong>Fully Decoupled Individual Recognition (ID), Target Structure, and Attribute Control</strong>: This design allows a single model to handle both facial reenactment and face swapping tasks.</li><li><strong>Addressing Overlooked Issues</strong>: Face Adapter focuses on and resolves issues that have been neglected in existing technologies.</li><li><strong>Simple and Effective, Plug-and-Play</strong>: Its straightforward design makes it easy to integrate into existing systems.</li></ul><p><img src="https://cdn.xueshu.fun/202406301504198.png"></p><h2 id="Quick-Start-Guide"><a href="#Quick-Start-Guide" class="headerlink" title="Quick Start Guide"></a>Quick Start Guide</h2><p>Face Adapter is available as a one-click startup package, eliminating the hassle of configuring the environment.</p><h3 id="Computer-Requirements"><a href="#Computer-Requirements" class="headerlink" title="Computer Requirements"></a>Computer Requirements</h3><ul><li>Windows 10&#x2F;11 64-bit operating system</li><li>NVIDIA graphics card with 8GB or more VRAM</li></ul><h3 id="Download-and-Usage-Instructions"><a href="#Download-and-Usage-Instructions" class="headerlink" title="Download and Usage Instructions"></a>Download and Usage Instructions</h3><ol><li><p><strong>Download the ZIP Package</strong>:<br>Download link: <a href="https://xueshu.fun/4916/">https://xueshu.fun/4916/</a></p></li><li><p><strong>Extract the Files</strong>:<br>After extraction, ensure there are no Chinese characters in the path. Double-click the “run.exe” file to execute.</p></li><li><p><strong>Access via Browser</strong>:<br>Open your browser and visit <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a> to use Face Adapter in your browser.</p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Face Swap</tag>
+      
+      <tag>Windows</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>CodeFormer for Mac, Powerful AI Face Restoration Tool for Local Use</title>
+    <link href="/2024/07/01/11-CodeFormer/"/>
+    <url>/2024/07/01/11-CodeFormer/</url>
+    
+    <content type="html"><![CDATA[<h1 id="CodeFormer-for-Mac-Powerful-AI-Face-Restoration-Tool-for-Local-Use"><a href="#CodeFormer-for-Mac-Powerful-AI-Face-Restoration-Tool-for-Local-Use" class="headerlink" title="CodeFormer for Mac: Powerful AI Face Restoration Tool for Local Use"></a>CodeFormer for Mac: Powerful AI Face Restoration Tool for Local Use</h1><p>Have you ever encountered blurry, severely damaged old photos that you wanted to restore but didn’t know where to start? Or do you have precious video clips that are hard to enjoy due to poor quality? Don’t worry, today I am introducing you to a magical tool called <strong>CodeFormer</strong>.</p><p>The download link is: <a href="https://www.patreon.com/user?u=122446863">https://www.patreon.com/user?u=122446863</a>.</p><p><img src="https://cdn.xueshu.fun/202406282045401.png"></p><h2 id="What-is-CodeFormer"><a href="#What-is-CodeFormer" class="headerlink" title="What is CodeFormer?"></a>What is CodeFormer?</h2><p>CodeFormer is hailed as the “industry’s top AI de-mosaic tool,” effectively removing obstacles in the path of study and research. This tool uses cutting-edge neural network AI technology, capable of precisely restoring various damaged, blurry, incomplete, and black-and-white photos and videos with astonishing results.</p><h3 id="🐼-Intelligent-Restoration-of-Old-Photos"><a href="#🐼-Intelligent-Restoration-of-Old-Photos" class="headerlink" title="🐼 Intelligent Restoration of Old Photos"></a>🐼 Intelligent Restoration of Old Photos</h3><p>Your family’s old photos may have become blurry over time. CodeFormer can bring these precious memories back to life.</p><p><img src="https://cdn.xueshu.fun/202312020831231.png"></p><h3 id="High-Precision-Face-Restoration"><a href="#High-Precision-Face-Restoration" class="headerlink" title="High-Precision Face Restoration"></a>High-Precision Face Restoration</h3><p>Do some photos lose their charm due to blurry facial details? CodeFormer can help you rediscover those forgotten faces.</p><p><img src="https://cdn.xueshu.fun/202312020832410.png"></p><h3 id="Facial-Color-Enhancement-and-Restoration"><a href="#Facial-Color-Enhancement-and-Restoration" class="headerlink" title="Facial Color Enhancement and Restoration"></a>Facial Color Enhancement and Restoration</h3><p>Even black-and-white photos can be brought to life. CodeFormer not only restores but also enhances facial colors.</p><p><img src="https://cdn.xueshu.fun/202312020832777.png"></p><h3 id="Facial-Detail-Filling-and-Restoration"><a href="#Facial-Detail-Filling-and-Restoration" class="headerlink" title="Facial Detail Filling and Restoration"></a>Facial Detail Filling and Restoration</h3><p>CodeFormer can also help you complete those incomplete faces.</p><p><img src="https://cdn.xueshu.fun/202312020832752.png"></p><h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><ol><li><strong>One-Click Operation</strong>: CodeFormer provides a straightforward user interface where users can upload the images or videos they want to clarify, and with one click, the entire clarification process is completed without the need for complex parameter settings.</li><li><strong>Batch Processing</strong>: Supports batch import of images and video files, allowing you to clarify multiple files at once, significantly improving work efficiency.</li><li><strong>Intelligent Optimization</strong>: Utilizing deep learning technology, CodeFormer can automatically identify blurry parts of the image and optimize them intelligently for clearer images.</li><li><strong>High-Quality Output</strong>: The clarified images and videos maintain high resolution and quality, meeting users’ needs in various scenarios.</li></ol><h2 id="Installation-Guide"><a href="#Installation-Guide" class="headerlink" title="Installation Guide"></a>Installation Guide</h2><p>To simplify the installation process, the tool has been packaged into a standalone startup package. Users can simply click to run without configuring a complicated Python environment. Here are the detailed steps to obtain and install the application:</p><p><strong>Note: Only supports devices with Mac M1&#x2F;2&#x2F;3 series chips.</strong></p><h3 id="Installation-Steps"><a href="#Installation-Steps" class="headerlink" title="Installation Steps"></a>Installation Steps</h3><ol><li>Download the DMG image file from the above link and drag the <code>app</code> file into the <code>Applications</code> folder.</li></ol><p><img src="https://cdn.xueshu.fun/202407011024725.png"></p><ol start="2"><li><p>After copying the installation, <strong>do not open it from the Launchpad for the first time. Instead, right-click to open it from the Applications folder</strong>.</p></li><li><p>The software will automatically open the operation interface in the default browser at the address <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, where you can start using it in the browser.</p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>Image Restoration</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Mac Version One-Click Video Background Removal App</title>
     <link href="/2024/06/28/10-Mac%E7%89%88%E4%B8%80%E9%94%AE%E8%A7%86%E9%A2%91%E5%8E%BB%E8%83%8C%E6%99%AFAPP/"/>
     <url>/2024/06/28/10-Mac%E7%89%88%E4%B8%80%E9%94%AE%E8%A7%86%E9%A2%91%E5%8E%BB%E8%83%8C%E6%99%AFAPP/</url>
