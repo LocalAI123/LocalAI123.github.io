@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://localai123.github.io/2024/07/05/13-MimicMotion/</loc>
+    
+    <lastmod>2024-07-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://localai123.github.io/2024/07/01/12-Face%20Adapter/</loc>
     
     <lastmod>2024-07-01</lastmod>
@@ -121,7 +130,7 @@
 
   <url>
     <loc>https://localai123.github.io/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,98 +138,98 @@
   
   <url>
     <loc>https://localai123.github.io/tags/Face-Swap/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Image-Face-Swap/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Video-Face-Swap/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Mac/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Windows/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/MLX/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Chat-with-MLX/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/LLMs/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Image-Editing/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Image-Generator/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Digital-Human/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Video-Editing/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/TTS/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/tags/Image-Restoration/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -229,28 +238,28 @@
   
   <url>
     <loc>https://localai123.github.io/categories/AI-Image-Tools/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/categories/AI-Text-Generators/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/categories/AI-Video-Tools/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://localai123.github.io/categories/AI-Audio-Generators/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
