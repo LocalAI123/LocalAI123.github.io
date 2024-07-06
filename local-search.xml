@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>LivePortrait Static Portrait to Dynamic Video Windows Version One-Click Package</title>
+    <link href="/2024/07/06/15-LivePortrait/"/>
+    <url>/2024/07/06/15-LivePortrait/</url>
+    
+    <content type="html"><![CDATA[<h1 id="LivePortrait-Static-Portrait-to-Dynamic-Video-Windows-Version-One-Click-Package"><a href="#LivePortrait-Static-Portrait-to-Dynamic-Video-Windows-Version-One-Click-Package" class="headerlink" title="LivePortrait: Static Portrait to Dynamic Video Windows Version One-Click Package"></a>LivePortrait: Static Portrait to Dynamic Video Windows Version One-Click Package</h1><p>Recently, Kuaishou has open-sourced a fascinating project called LivePortrait. This tool allows you to generate dynamic videos from a single static portrait image, and the results are truly stunning.</p><p><img src="https://cdn.xueshu.fun/202407052305982.png"></p><p>It’s worth noting that Kuaishou’s text-to-video and image-to-video features have not only garnered significant attention but have also gained popularity overseas. The newly open-sourced LivePortrait is equally impressive! Although the technology driving portrait video generation isn’t entirely new, it has wowed audiences with its effectiveness.</p><p>LivePortrait can precisely control the direction of eye gaze and the opening and closing of lips. It can also seamlessly stitch together multiple portraits, merging different facial features into a single video and ensuring smooth transitions without abrupt boundaries between dynamic characters. Comparative experiments show that LivePortrait produces higher quality animations than existing non-diffusion and diffusion models. On an RTX 4090 GPU, LivePortrait achieves a generation speed of 12.8 milliseconds per frame, significantly faster than existing diffusion model methods.</p><p><img src="https://cdn.xueshu.fun/202407052256791.gif"></p><p>Netizens exclaimed, “This is amazing!” It is speculated that this technology has likely been integrated into Kuaishou’s Kwai video editing app for some time. Undoubtedly, this open-sourcing significantly lowers the barrier to creating your own digital persona! Even better, netizens who tried deploying the open-source code found that generating a 10-second video took only 10 seconds, which is incredibly fast. This ultra-fast speed means that LivePortrait’s generation capability is approaching real-time. In the future, it could be widely used in real-time applications such as video conferencing, social media live streaming, and real-time game animations.</p><h2 id="Quick-Start-Guide"><a href="#Quick-Start-Guide" class="headerlink" title="Quick Start Guide"></a>Quick Start Guide</h2><p>The above AI tool has been packaged into a one-click startup bundle, so you just need to click to use it without worrying about configuration issues.</p><h3 id="System-Requirements"><a href="#System-Requirements" class="headerlink" title="System Requirements"></a>System Requirements</h3><ul><li>Windows 10&#x2F;11 64-bit operating system</li><li>NVIDIA graphics card with 8GB or more VRAM</li><li>CUDA &gt;&#x3D; 12.1</li></ul><h3 id="Download-and-Usage-Instructions"><a href="#Download-and-Usage-Instructions" class="headerlink" title="Download and Usage Instructions"></a>Download and Usage Instructions</h3><ol><li><p><strong>Download the ZIP file</strong>:<br>Download link: <a href="https://www.patreon.com/posts/liveportrait-to-107577015?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link">https://www.patreon.com/posts/liveportrait-to-107577015?utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;postshare_creator&amp;utm_content&#x3D;join_link</a></p></li><li><p><strong>Extract the files</strong>:<br>After extracting, ensure there are no Chinese characters in the path, then double-click the “run.exe” file to run.</p></li><li><p><strong>Access via Browser</strong>:<br>Open your browser and visit <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a> to use it in the browser.</p></li></ol><p><img src="https://cdn.xueshu.fun/202407052300276.png" alt="Image"><br><img src="https://cdn.xueshu.fun/202407052301019.png" alt="Image"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Video Tools</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Windows</tag>
+      
+      <tag>Digital Human</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>MimicMotion Generate Dancing Videos with Just One Picture, One-Click Run Package for Windows</title>
     <link href="/2024/07/05/13-MimicMotion/"/>
     <url>/2024/07/05/13-MimicMotion/</url>
