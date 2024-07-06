@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>Lightweight Multi-Task Vision Model, One-Click Installer for Windows and Mac</title>
+    <link href="/2024/07/06/14-Florence2/"/>
+    <url>/2024/07/06/14-Florence2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Florence2-Lightweight-Multi-Task-Vision-Model-One-Click-Installer-for-Windows-and-Mac"><a href="#Florence2-Lightweight-Multi-Task-Vision-Model-One-Click-Installer-for-Windows-and-Mac" class="headerlink" title="Florence2: Lightweight Multi-Task Vision Model, One-Click Installer for Windows and Mac"></a>Florence2: Lightweight Multi-Task Vision Model, One-Click Installer for Windows and Mac</h1><p>Image Inpainting, Semantic Segmentation, Text Recognition, All-in-One Florence2 Model</p><p><img src="https://cdn.xueshu.fun/202407061357084.png"></p><p>Microsoft has just released a super powerful visual recognition model—Florence2. This model not only performs image text recognition but also object detection and semantic segmentation, making it an all-rounder. Even more impressive, Florence2 is highly efficient, with extremely fast recognition speeds and a small footprint. Compared to large models like Flamingo, Florence2 excels in full-frame segmentation and complex semantic recognition, completing tasks in just 3 seconds. It also offers fine-tuned versions optimized for different tasks, with multiple built-in modes to cater to various needs.</p><h3 id="Highlights"><a href="#Highlights" class="headerlink" title="Highlights"></a>Highlights</h3><ul><li>📈 Powerful Features: Integrates image text recognition, object detection, and semantic segmentation.</li><li>💪 High Efficiency: Faster execution speed and smaller footprint compared to large models.</li><li>🎯 Fine-Tuned Optimization: Provides fine-tuned versions for better performance on specific tasks.</li><li>🌐 Multiple Modes: Built-in modes for different tasks, no additional plugins required.</li><li>🕵️‍♂️ OCR Recognition: Accurate recognition of text in images.</li></ul><h2 id="Quick-Start-Guide"><a href="#Quick-Start-Guide" class="headerlink" title="Quick Start Guide"></a>Quick Start Guide</h2><p>The above AI tool has been packaged into a one-click installer. Just click and use, no more worries about configuration issues.</p><h3 id="System-Requirements"><a href="#System-Requirements" class="headerlink" title="System Requirements"></a>System Requirements</h3><ul><li>Windows 10&#x2F;11 64-bit operating system, NVIDIA graphics card with 8GB VRAM or more, CUDA &gt;&#x3D; 12.1</li><li>Or a Mac device with M1&#x2F;2&#x2F;3 series chips</li></ul><p>Download link: <a href="https://www.patreon.com/posts/florence2-multi-107589484?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link">https://www.patreon.com/posts/florence2-multi-107589484?utm_medium&#x3D;clipboard_copy&amp;utm_source&#x3D;copyLink&amp;utm_campaign&#x3D;postshare_creator&amp;utm_content&#x3D;join_link</a></p><h3 id="Windows-Usage-Instructions"><a href="#Windows-Usage-Instructions" class="headerlink" title="Windows Usage Instructions"></a>Windows Usage Instructions</h3><ol><li><strong>Extract the Files</strong>:<br>After extraction, avoid Chinese characters in the path. Double-click the “run.exe” file to run.</li></ol><h3 id="Mac-Usage-Instructions"><a href="#Mac-Usage-Instructions" class="headerlink" title="Mac Usage Instructions"></a>Mac Usage Instructions</h3><ol><li>Download the DMG image file from the above link and drag the <code>app</code> file into the <code>Applications</code> folder.</li></ol><p><img src="https://cdn.xueshu.fun/202407061511559.png"></p><ol start="2"><li>After copying the installation, <strong>do not open it from the Launchpad for the first time. Instead, right-click to open it from the Applications folder</strong>.</li></ol><h2 id="Access-via-Browser"><a href="#Access-via-Browser" class="headerlink" title="Access via Browser"></a>Access via Browser</h2><p>  <img src="https://cdn.xueshu.fun/202407051711510.png"></p><p>   Open your browser and visit <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a>, and you can use MimicBrush in your browser.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>AI Image Tools</category>
+      
+      <category>AI Text Generators</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Mac</tag>
+      
+      <tag>Windows</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>LivePortrait Static Portrait to Dynamic Video Windows Version One-Click Package</title>
     <link href="/2024/07/06/15-LivePortrait/"/>
     <url>/2024/07/06/15-LivePortrait/</url>
